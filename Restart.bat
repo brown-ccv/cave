@@ -1,0 +1,3 @@
+call start_joysticks.bat
+call start_tracker.bat
+call start_cavewriting_soundserver.bat
