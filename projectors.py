@@ -70,7 +70,7 @@ def change_projector(projector: Projector, state: State):
     # Power on projector
     if(state == State.ON):
         power_on(projector, driver)
-    elif (state == State.ON):
+    elif (state == State.OFF):
         power_off(projector, driver)
 
     return driver.close()
