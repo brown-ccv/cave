@@ -60,6 +60,7 @@ def power_off(projector, driver):
         locked_print(f"POWERED OFF: {projector.name}")
 
 
+
 def change_projector(projector: Projector, state: State):
     IP = "http://192.168.1." + str(projector.value)
 
