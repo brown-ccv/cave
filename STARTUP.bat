@@ -5,4 +5,4 @@
 
 echo Turning on projectors
 echo:
-python %userprofile%\ROOT\PROJECTS\cave\projectors.py on
+python D:\cave\projectors.py on

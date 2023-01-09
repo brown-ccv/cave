@@ -5,4 +5,4 @@
 
 echo Turning off projectors
 echo:
-python %userprofile%\ROOT\PROJECTS\cave\projectors.py off
+python D:\cave\projectors.py off
